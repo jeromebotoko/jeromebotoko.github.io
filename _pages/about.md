@@ -29,18 +29,18 @@ You can find my publications on the [Publications page](/publications/) and view
 * **2026-10** — Co-organising the [ELA Symposium in Paris](https://emergent-languages.org/ela/symposium/)!
 * **2026-10** — We’ll present our latest TACL paper this month at [EMNLP 2026](https://2026.emnlp.org/) and [BNAIC 2026](https://www.maastrichtuniversity.nl/bnaic2026)!
 * **2026-09** — Co-organising this year's [CLIN 36](https://clin36.ai.vub.ac.be/)!
+* **2026-08** — Our paper on cultural evolution and emergent communication was accepted to [EMNLP 2026 (Main)](https://2026.emnlp.org/)!
 * **2026-08** — Our paper on scaling decentralised language games with bidirectional agents was just published in [TACL](https://doi.org/10.1162/TACL.a.799)!
-* **2026-08** — Our paper on cultural evolution and emergent communication was accepted to the [EMNLP 2026 main conference](https://2026.emnlp.org/)!
 * **2026-07** — New paper on the importance of conventionality was published in the [Journal of Language Evolution](https://doi.org/10.1093/jole/lzag006).
 * **2025-11** — Visiting for the next three months Prof. Nicolas Bredeche's lab at [Sorbonne Université’s ISIR](https://www.isir.upmc.fr/) to study language evolution with robot swarms.
-* **2025-09** — Our paper “Constructions All the Way Up” was published at [CxGs+NLP](https://cxgsnlp.github.io/) (and presented at [CLIN 35](https://clin35.ccl.kuleuven.be/home)!)
+* **2025-09** — Our paper "Constructions All the Way Up" was published at [CxGs+NLP](https://cxgsnlp.github.io/) (and presented at [CLIN 35](https://clin35.ccl.kuleuven.be/home)!)
 * **2025-07** — Received two [FWO](https://www.fwo.be/) mobility grants.
-* **2025-05** — A full-length journal paper on neuro-symbolic procedural semantics was published in [PLOS One](https://doi.org/10.1371/journal.pone.0323098)!
+* **2025-05** — Our full-length journal paper on neuro-symbolic procedural semantics was published in [PLOS One](https://doi.org/10.1371/journal.pone.0323098)!
 * **2025-03** — Invited talk on emergent communication at [ISIR, Sorbonne Université](https://www.isir.upmc.fr/), Paris.
 * **2024-05** — Presented our work on emergent linguistic conventions at [AAMAS](https://www.aamas2024.org/).
 * **2024-05** — Received an [IFAAMAS](https://www.ifaamas.org/) student scholarship.
 * **2023-11** — Presented our "language game meets multi-agent RL" at [BNAIC](https://bnaic2022.uantwerpen.be/).
 * **2023-10** — Co-authored a paper at [ECAI paper](https://doi.org/10.3233/FAIA230544) on neuro-symbolic AI and procedural semantics!
-* **2023-09** — Presented at at [CLIN 33](https://clin33.uantwerpen.be/) on language games.
+* **2023-09** — Presented our work on language games at [CLIN 33](https://clin33.uantwerpen.be/)!
 * **2022-07** — Joint work on "language games and multi-agent RL" was published in the [Journal of Language Evolution](https://doi.org/10.1093/jole/lzad001)!
 </div>
