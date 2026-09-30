@@ -29,7 +29,7 @@ You can find my publications on the [Publications page](/publications/) and view
 * **2026-10** — Co-organising the [ELA Symposium in Paris](https://emergent-languages.org/ela/symposium/)!
 * **2026-10** — We’ll present our latest TACL paper this month at [EMNLP 2026](https://2026.emnlp.org/) and [BNAIC 2026](https://www.maastrichtuniversity.nl/bnaic2026)!
 * **2026-09** — Co-organising this year's [CLIN 36](https://clin36.ai.vub.ac.be/)!
-* **2026-08** — Our paper on cultural evolution and emergent communication was accepted to [EMNLP 2026 (Main)](https://2026.emnlp.org/)!
+* **2026-08** — Our paper on cultural evolution and neural emergent communication was accepted to [EMNLP 2026 (Main)](https://2026.emnlp.org/)!
 * **2026-08** — Our paper on scaling decentralised language games with bidirectional agents was just published in [TACL](https://doi.org/10.1162/TACL.a.799)!
 * **2026-07** — New paper on the importance of conventionality was published in the [Journal of Language Evolution](https://doi.org/10.1093/jole/lzag006).
 * **2025-11** — Visiting for the next three months Prof. Nicolas Bredeche's lab at [Sorbonne Université’s ISIR](https://www.isir.upmc.fr/) to study language evolution with robot swarms.
