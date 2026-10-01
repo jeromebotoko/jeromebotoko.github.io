@@ -227,6 +227,17 @@
   }
 }
 
+.selected-publications .publication-card {
+  padding: 0.65em 0.9em;
+  border: 1px solid #e3e6e8;
+  border-radius: 4px;
+  background: #fbfbfb;
+
+  & + .publication-card {
+    margin-top: 0.65em;
+  }
+}
+
 .publication-links {
   display: flex;
   align-items: flex-start;
