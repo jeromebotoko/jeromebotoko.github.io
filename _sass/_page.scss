@@ -229,6 +229,7 @@
 
 .publication-links {
   display: flex;
+  align-items: flex-start;
   flex-wrap: wrap;
   gap: 0.45em;
 }
@@ -266,44 +267,22 @@
 
 .bibtex-toggle {
   margin: 0;
+  background: transparent;
+  cursor: pointer;
+}
 
-  > summary {
-    display: inline-block;
-    padding: 0.14em 0.7em;
-    border: 1.5px solid #28579a;
-    border-radius: 2em;
-    color: #28579a;
-    cursor: pointer;
-    font-family: $sans-serif;
-    font-size: 0.82em;
-    font-weight: 700;
-    line-height: 1.5;
-    list-style: none;
-
-    &::-webkit-details-marker {
-      display: none;
-    }
-
-    &:hover {
-      border-color: #28579a;
-      background: #28579a;
-      color: #fff;
-    }
-  }
-
-  pre {
-    max-width: 100%;
-    margin: 0.55em 0 0;
-    padding: 0.75em;
-    overflow-x: auto;
-    border: 1px solid #e3e6e8;
-    border-radius: 4px;
-    background: #f7f8f8;
-    font-size: 0.75em;
-    line-height: 1.4;
-    white-space: pre-wrap;
-    overflow-wrap: anywhere;
-  }
+.bibtex-panel {
+  max-width: 100%;
+  margin: 0.55em 0 0;
+  padding: 0.75em;
+  overflow-x: auto;
+  border: 1px solid #e3e6e8;
+  border-radius: 4px;
+  background: #f7f8f8;
+  font-size: 0.75em;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
 
 @include breakpoint(max-width $small) {
