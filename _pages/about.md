@@ -18,7 +18,7 @@ I’ve been fortunate to work with Prof. dr. [Nicolas Bredeche](https://nekonaut
 
 Alongside my research, I serve as a TA for four courses: two in natural language processing (NLP), one introductory course in computational linguistics and one in numerical analysis.
 
-Beyond academia, I enjoy playing ultimate frisbee 🥏 (yes, it’s a sport!) and running 🏃🏼.
+Beyond academia, I enjoy playing ultimate frisbee 🥏 and running 🏃🏼.
 
 You can find my publications on the [Publications page](/publications/) and view my full [CV](/cv/).
 
