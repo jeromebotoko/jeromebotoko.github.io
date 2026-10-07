@@ -31,6 +31,7 @@ You can find my publications on the [Publications page](/publications/) and view
   <p class="publication-citation"><strong>Botoko Ekila, J.</strong>, Verheyen, L., Nevens, J., Beuls, K. &amp; Van Eecke, P. (2026). <em>Transactions of the Association for Computational Linguistics</em>, 14, 2234–2257.</p>
   <div class="publication-links">
     <a class="publication-link" href="https://doi.org/10.1162/TACL.a.799">Paper - TACL</a>
+    <a class="publication-link" href="https://jeromebotoko.github.io/self-org-at-scale/">Website</a>
   </div>
 </article>
 
