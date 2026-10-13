@@ -22,7 +22,7 @@ author_profile: true
   {% raw %}<pre class="bibtex-panel" id="bibtex-1" hidden><code>@inproceedings{toquebiau-etal-2026-cultural,
   title = {Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication},
   author = {Toquebiau, Maxime and {Botoko Ekila}, Jérôme and Beuls, Katrien and Van Eecke, Paul},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},
   year = {2026},
   note = {Accepted}
 }</code></pre>{% endraw %}
