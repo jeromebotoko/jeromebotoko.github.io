@@ -39,7 +39,8 @@ You can find my publications on the [Publications page](/publications/) and view
   <h3>Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication</h3>
   <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (Accepted). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
   <div class="publication-links">
-    <a class="publication-link publication-link--muted" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Accepted at EMNLP 2026</a>
+    <!-- publication-link--muted -->
+    <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Accepted at EMNLP 2026</a>
   </div>
 </article>
 
