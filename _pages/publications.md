@@ -16,6 +16,7 @@ author_profile: true
   <div class="publication-links">
     <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Paper - EMNLP 2026 (Accepted)</a>
     <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-1">BibTeX</button>
+    <a class="publication-link" href="https://gitlab.ai.vub.ac.be/mtoquebiau1/cultural-evo">Code</a>
     <a class="publication-link publication-link--muted" href="https://clin36.ai.vub.ac.be/">Presented at CLIN 36</a>
   </div>
   {% raw %}<pre class="bibtex-panel" id="bibtex-1" hidden><code>@inproceedings{toquebiau-etal-2026-cultural,

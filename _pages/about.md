@@ -32,16 +32,35 @@ You can find my publications on the [Publications page](/publications/) and view
   <div class="publication-links">
     <a class="publication-link" href="https://doi.org/10.1162/TACL.a.799">Paper - TACL</a>
     <a class="publication-link" href="https://jeromebotoko.github.io/self-org-at-scale/">Website</a>
+    <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-2">BibTeX</button>
+    <a class="publication-link" href="https://gitlab.ai.vub.ac.be/ehai/self-org-at-scale-tacl">Code</a>
   </div>
+  {% raw %}<pre class="bibtex-panel" id="bibtex-2" hidden><code>@article{botokoekila-etal-2026-emergent,
+  title = {Emergent Communication in Continuous Worlds: Self-Organisation of Conceptually Grounded Vocabularies at Scale},
+  author = {{Botoko Ekila}, Jérôme and Verheyen, Lara and Nevens, Jens and Beuls, Katrien and Van Eecke, Paul},
+  journal = {Transactions of the Association for Computational Linguistics},
+  volume = {14},
+  pages = {2234--2257},
+  year = {2026},
+  doi = {10.1162/TACL.a.799}
+}</code></pre>{% endraw %}
 </article>
 
 <article class="publication-card">
   <h3>Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication</h3>
   <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (Accepted). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
   <div class="publication-links">
-    <!-- publication-link--muted -->
     <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Paper - EMNLP 2026 (Accepted)</a>
+    <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-1">BibTeX</button>
+    <a class="publication-link" href="https://gitlab.ai.vub.ac.be/mtoquebiau1/cultural-evo">Code</a>
   </div>
+  {% raw %}<pre class="bibtex-panel" id="bibtex-1" hidden><code>@inproceedings{toquebiau-etal-2026-cultural,
+  title = {Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication},
+  author = {Toquebiau, Maxime and {Botoko Ekila}, Jérôme and Beuls, Katrien and Van Eecke, Paul},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year = {2026},
+  note = {Accepted}
+}</code></pre>{% endraw %}
 </article>
 
 <article class="publication-card">
@@ -49,7 +68,19 @@ You can find my publications on the [Publications page](/publications/) and view
   <p class="publication-citation">Van Eecke, P., Beuls, K., <strong>Botoko Ekila, J.</strong> &amp; Rădulescu, R. (2022). <em>Journal of Language Evolution</em>, 7(2), 213–223.</p>
   <div class="publication-links">
     <a class="publication-link" href="https://doi.org/10.1093/jole/lzad001">Paper - JOLE</a>
+    <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-9">BibTeX</button>
+    <a class="publication-link" href="https://gitlab.ai.vub.ac.be/ehai/marl_language_games">Code</a>
   </div>
+  {% raw %}<pre class="bibtex-panel" id="bibtex-9" hidden><code>@article{vaneecke-etal-2022-naming-game,
+  title = {Language Games Meet Multi-Agent Reinforcement Learning: A Case Study for the Naming Game},
+  author = {Van Eecke, Paul and Beuls, Katrien and {Botoko Ekila}, Jérôme and Rădulescu, Roxana},
+  journal = {Journal of Language Evolution},
+  volume = {7},
+  number = {2},
+  pages = {213--223},
+  year = {2022},
+  doi = {10.1093/jole/lzad001}
+}</code></pre>{% endraw %}
 </article>
 
 </div>
