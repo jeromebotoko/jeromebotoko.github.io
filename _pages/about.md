@@ -40,7 +40,7 @@ You can find my publications on the [Publications page](/publications/) and view
   <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (Accepted). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
   <div class="publication-links">
     <!-- publication-link--muted -->
-    <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Accepted at EMNLP 2026</a>
+    <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Paper - EMNLP 2026 (Accepted)</a>
   </div>
 </article>
 
