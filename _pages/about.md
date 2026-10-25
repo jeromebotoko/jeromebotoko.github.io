@@ -48,9 +48,9 @@ You can find my publications on the [Publications page](/publications/) and view
 
 <article class="publication-card">
   <h3>Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication</h3>
-  <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (Accepted). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
+  <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (2026). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
   <div class="publication-links">
-    <a class="publication-link" href="https://maxtoq.github.io/docs/EMNLP_2026.pdf">Paper - EMNLP 2026 (Accepted)</a>
+    <a class="publication-link" href="https://aclanthology.org/2026.emnlp-main.1410/">Paper - EMNLP 2026</a>
     <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-1">BibTeX</button>
     <a class="publication-link" href="https://gitlab.ai.vub.ac.be/mtoquebiau1/cultural-evo">Code</a>
   </div>
@@ -59,7 +59,7 @@ You can find my publications on the [Publications page](/publications/) and view
   author = {Toquebiau, Maxime and {Botoko Ekila}, Jérôme and Beuls, Katrien and Van Eecke, Paul},
   booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},
   year = {2026},
-  note = {Accepted}
+  url = {https://aclanthology.org/2026.emnlp-main.1410/}
 }</code></pre>{% endraw %}
 </article>
 
