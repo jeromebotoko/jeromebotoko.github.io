@@ -58,6 +58,7 @@ You can find my publications on the [Publications page](/publications/) and view
   title = {Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication},
   author = {Toquebiau, Maxime and {Botoko Ekila}, Jérôme and Beuls, Katrien and Van Eecke, Paul},
   booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},
+  pages = {32202--32223},
   year = {2026},
   url = {https://aclanthology.org/2026.emnlp-main.1410/}
 }</code></pre>{% endraw %}
