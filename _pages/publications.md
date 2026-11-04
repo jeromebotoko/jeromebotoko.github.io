@@ -14,7 +14,7 @@ author_profile: true
   <h3>Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication</h3>
   <p class="publication-citation">Toquebiau, M., <strong>Botoko Ekila, J.</strong>, Beuls, K. &amp; Van Eecke, P. (2026). In <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>.</p>
   <div class="publication-links">
-    <a class="publication-link" href="https://aclanthology.org/2026.emnlp-main.1410/">Paper - EMNLP 2026</a>
+    <a class="publication-link" href="https://doi.org/10.18653/2026.emnlp-main.1410">Paper - EMNLP 2026</a>
     <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-1">BibTeX</button>
     <a class="publication-link" href="https://gitlab.ai.vub.ac.be/mtoquebiau1/cultural-evo">Code</a>
     <a class="publication-link publication-link--muted" href="https://clin36.ai.vub.ac.be/">Presented at CLIN 36</a>
@@ -25,6 +25,7 @@ author_profile: true
   booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},
   pages = {32202--32223},
   year = {2026},
+  doi = {10.18653/2026.emnlp-main.1410},
 }</code></pre>{% endraw %}
 
 </article>
