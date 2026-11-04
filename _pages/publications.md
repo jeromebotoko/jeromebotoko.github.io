@@ -38,7 +38,7 @@ author_profile: true
     <button type="button" class="publication-link bibtex-toggle" aria-expanded="false" aria-controls="bibtex-2">BibTeX</button>
     <a class="publication-link" href="https://gitlab.ai.vub.ac.be/ehai/self-org-at-scale-tacl">Code</a>
     <a class="publication-link publication-link--muted" href="https://2026.emnlp.org/">Presented at EMNLP 2026</a>
-    <a class="publication-link publication-link--muted" href="https://ii.tudelft.nl/bnvki/bnaic-conference/">Presented at BNAIC 2026</a>
+    <a class="publication-link publication-link--muted" href="https://www.maastrichtuniversity.nl/bnaic2026/">Presented at BNAIC 2026</a>
   </div>
   {% raw %}<pre class="bibtex-panel" id="bibtex-2" hidden><code>@article{botokoekila-etal-2026-emergent,
   title = {Emergent Communication in Continuous Worlds: Self-Organisation of Conceptually Grounded Vocabularies at Scale},
